@@ -1,3 +1,4 @@
+![logo](https://i.pinimg.com/originals/80/34/f5/8034f5707edb6b1cf0727456e9a9f5c9.png)
 <h1 align="center">Hi 👋, I'm Aksh</h1>
 <h3 align="center">A passionate frontend developer and AI with Machine Learning Student from India</h3>
 
